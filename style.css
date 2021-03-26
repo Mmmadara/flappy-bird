@@ -1,0 +1,26 @@
+body{
+  background-color: lightblue;
+  background-image: url(images/wallpaper.png);
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.main{
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+.text{
+  margin-bottom: 20px;
+}
+h1{
+font-family: Verdana;
+}
+
+.button{
+  height: 50px;
+  width: 144px;
+  font-size: 10px;
+  text-align: center;
+  padding: auto;
+}
